@@ -50,7 +50,7 @@ A base de dados utilizada simula uma tabela de vendas (`TB_VENDAS_TAREFA.csv`) c
 ## 📁 Estrutura do Repositório
 
 ```
-├── Profissao_Cientista_de_Dados_M25_PratiqueFEITO.ipynb
+├── Profissao_Cientista_de_Dados_M25_Pratique.ipynb
 └── README.md
 ```
 
